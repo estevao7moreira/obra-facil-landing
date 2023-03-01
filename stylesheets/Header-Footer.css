@@ -1,0 +1,21 @@
+/*Estilização do cabeçalho*/
+
+header 
+{background-color: whitesmoke;
+ border-bottom: 3px solid gray;
+ display: flex ;
+ padding: 25px 10%;
+ 
+}
+ .logo-empresa, .siga-conectado {width:50%}
+ #siga 
+ {color: rgb(80, 80, 80); 
+  margin-top: 5px ;
+  font-size: 15px;}
+
+  header .social_midia {width: 5px; height: 5px;} 
+
+  header .Youtube_bottom {background-image: url(../social_media_icons/yt.png);}
+  header .Twitter_bottom {background-image: url(../social_media_icons/twitter.png);}
+  header .Facebook_bottom {background-image: url(../social_media_icons/facebook.png);}
+  header .Instagram_bottom {background-image: url(../social_media_icons/instagram.png);}

@@ -1,0 +1,11 @@
+/*geral*/
+* {font-family: 'Open Sans', 'Sans-serif';}
+
+/*Títulos*/
+h2{ 
+    color: black;
+    font-size: 26px;
+    font-weight: normal;
+    line-height: 30px;
+    
+}
