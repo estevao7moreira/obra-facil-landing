@@ -1,0 +1,10 @@
+main .content {
+    display: flex;
+    justify-content: space-around;
+}
+main .form_area form {
+
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

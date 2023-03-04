@@ -7,15 +7,31 @@ header
  padding: 25px 10%;
  
 }
- .logo-empresa {width:50%}
+ .logo-empresa {width:75%}
  #siga 
  {color: rgb(80, 80, 80); 
   margin-top: 1% ;
   font-size: 15px;}
 
-  header .midia {width: 25px; height: 25px;} 
+  header .midia a {
+  
+    width: 32px;
+    height: 32px;
+    float: right;
+    margin-left: 8px;
+    
+  }
+ 
+header .Youtube_button {background-image: url(../images/social_media_icons/yt.png);}
+header .Twitter_button {background-image: url(../images/social_media_icons/twitter.png);}
+header .Facebook_button {background-image: url(../images/social_media_icons/facebook.png);}
 
-  header .Youtube_bottom {background-image: url(C:\Users\estev\Desktop\Workspace\obra-facil-landing\images\social_media_icons\yt.png);}
-  header .Twitter_bottom {background-image: url(../social_media_icons/twitter.png);}
-  header .Facebook_bottom {background-image: url(../social_media_icons/facebook.png);}
-  header .Instagram_bottom {background-image: url(../social_media_icons/instagram.png);}
+header .Youtube_button:hover {background-image: url(../images/social_media_icons/youtube-hover.png);}
+header .Twitter_button:hover {background-image: url(../images/social_media_icons/twitter-hover.png);}
+header .Facebook_button:hover {background-image: url(../images/social_media_icons/facebook-hover.png);}
+
+footer .footer{
+  color: rgb(80, 80,80);
+  font-size: 12px;
+  text-align: center;
+}
