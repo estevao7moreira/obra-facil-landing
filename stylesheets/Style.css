@@ -1,4 +1,8 @@
 /*geral*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&display=swap');
+
 * {font-family: 'Open Sans', 'Sans-serif';}
 
 /*Títulos*/
@@ -7,5 +11,11 @@ h2{
     font-size: 26px;
     font-weight: normal;
     line-height: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
     
+}
+
+p {
+    color: rgb(80, 80,80);
 }
